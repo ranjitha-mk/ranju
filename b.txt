@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hi i am pavan
 good night
+=======
+i am ranjitha mk ,i am from nagamangala
+>>>>>>> feature-branch
